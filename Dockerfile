@@ -28,4 +28,4 @@ ENV PATH="/py/bin:$PATH"
 
 USER app
 
-CMD ["sh", "/scripts/run.sh"]
+CMD ["/scripts/run.sh"]

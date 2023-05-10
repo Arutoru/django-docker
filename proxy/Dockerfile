@@ -23,4 +23,4 @@ VOLUME /vol/static
 
 USER nginx
 
-CMD ["sh", "/run.sh"]
+CMD ["/run.sh"]
